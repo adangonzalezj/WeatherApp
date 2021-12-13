@@ -4,3 +4,9 @@ body{
     font-size: 1.1em;
     background-color: paleturquoise;
 }
+.header{
+    text-align: center;
+    width: 101%;
+    height: 50px;
+    bottom: 0;
+}
